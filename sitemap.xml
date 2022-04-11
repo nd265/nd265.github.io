@@ -16,6 +16,28 @@
   <url>
     <loc>https://academic-demo.netlify.app/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://academic-demo.netlify.app/tag/data-viz/</loc><lastmod>2022-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/project/mindthegap/</loc><lastmod>2022-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/project/</loc><lastmod>2022-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2022-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/project/gold/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/ts/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/package/</loc><lastmod>2022-02-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/project/pypkgs/</loc><lastmod>2022-02-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/project/simplerfit/</loc><lastmod>2022-02-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/project/income-prediction/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/machine-learning/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://academic-demo.netlify.app/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
@@ -31,8 +53,6 @@
     <loc>https://academic-demo.netlify.app/author/navya-dahiya/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
@@ -50,19 +70,13 @@
   <url>
     <loc>https://academic-demo.netlify.app/post/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/tag/data-mining-analysis/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/project/erp/</loc><lastmod>2018-11-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/tag/bd/</loc><lastmod>2018-07-15T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/tag/demo/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/project/external-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/project/internal-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/project/hadoop_twitter/</loc><lastmod>2018-07-15T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication-type/2/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -75,5 +89,13 @@
     <loc>https://academic-demo.netlify.app/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/admin/</loc></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/privacy/</loc><priority>0</priority></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/slides/example/</loc></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/terms/</loc><priority>0</priority></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/slides/</loc></url>
   <url>
     <loc>https://academic-demo.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc></url></urlset>
