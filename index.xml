@@ -127,6 +127,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Cloud computing-Rainfall prediction</title>
+      <link>https://academic-demo.netlify.app/project/cloud/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mindthegap dashboard</title>
       <link>https://academic-demo.netlify.app/project/mindthegap/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
@@ -270,7 +278,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-981265347&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-743651982&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +288,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-981265347&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-743651982&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -581,7 +589,7 @@ date: 2019-09-01
     </item>
     
     <item>
-      <title>HADOOP TWITTER SENTIMENT ANALYSIS</title>
+      <title>Hadoop Twitter Sentiment Analysis</title>
       <link>https://academic-demo.netlify.app/project/hadoop_twitter/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/project/hadoop_twitter/</guid>
